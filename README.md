@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadkhann" alt="hammadkhann" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@hammad_khan23" target="blank"><img src="https://img.shields.io/twitter/follow/@hammad_khan23?logo=twitter&style=for-the-badge" alt="@hammad_khan23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hammad_khan23" target="blank"><img src="https://img.shields.io/twitter/follow/hammad_khan23?logo=twitter&style=for-the-badge" alt="hammad_khan23" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Search & Recommendation Projects.**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@hammad_khan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hammad_khan23" height="30" width="40" /></a>
+<a href="https://twitter.com/hammad_khan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammad_khan23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hammad-khan-b84822142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hammad-khan-b84822142/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hammad_khan23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hammad_khan23" height="30" width="40" /></a>
 </p>
