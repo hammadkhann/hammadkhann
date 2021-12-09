@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-hammad-khan-b84822142/](https://www.linkedin.com/in/muhammad-hammad-khan-b84822142/)
 
-- ⚡ Fun fact **ego = 1/knowledge**
+- ⚡ Fun fact: **ego = 1/knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
